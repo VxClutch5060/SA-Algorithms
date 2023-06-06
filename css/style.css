@@ -25,3 +25,7 @@ button {
 #forward {
   float: right;
 }
+#myId {
+  width: 200px;
+  height: 200px;
+}
